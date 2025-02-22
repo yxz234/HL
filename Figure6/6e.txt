@@ -1,0 +1,11 @@
+description	count	all	Pvalue
+Fatty acid degradation	10	20	0.0330515377216505
+Non-alcoholic fatty liver disease	9	18	0.0428370770767547
+AMPK signaling pathway	9	18	0.0428370770767547
+Type II diabetes mellitus	9	18	0.0428370770767547
+Biosynthesis of unsaturated fatty acids	7	13	0.0475999449971518
+Bile secretion	4	6	0.039281271
+Insulin secretion	9	19	0.051686446
+Primary bile acid biosynthesis	3	4	0.063136974
+Fatty acid metabolism	1	2	0.049113252
+Ferroptosis	2	3	0.039867994
