@@ -1,0 +1,22 @@
+KEGG_ID	Pathway_Name	S_Gene_Number	TS_Gene_Number	B_Gene_Number	TB_Gene_Number	p_Value
+mcf03010	Ribosome	56	709	188	22050	1.97693E-38
+mcf03320	PPAR signaling pathway	25	709	68	22050	2.27771E-20
+mcf04152	AMPK signaling pathway	26	709	116	22050	3.64059E-15
+mcf05200	Pathways in cancer	51	709	477	22050	5.72759E-14
+mcf04976	Bile secretion	19	709	74	22050	1.39718E-12
+mcf04931	Insulin resistance	22	709	105	22050	2.07549E-12
+mcf04714	Thermogenesis	31	709	215	22050	2.66529E-12
+mcf04975	Fat digestion and absorption	14	709	40	22050	1.19035E-11
+mcf05416	Viral myocarditis	16	709	62	22050	7.61155E-11
+mcf04120	Ubiquitin mediated proteolysis	23	709	137	22050	7.90905E-11
+mcf00980	Metabolism of xenobiotics by cytochrome P450	16	709	65	22050	1.64951E-10
+mcf04151	PI3K-Akt signaling pathway	35	709	314	22050	1.77146E-10
+mcf04932	Non-alcoholic fatty liver disease	23	709	147	22050	3.4015E-10
+mcf04144	Endocytosis	28	709	232	22050	2.00361E-09
+mcf00620	Pyruvate metabolism	12	709	42	22050	5.08124E-09
+mcf04919	Thyroid hormone signaling pathway	19	709	116	22050	5.34191E-09
+mcf04974	Protein digestion and absorption	16	709	92	22050	3.57916E-08
+mcf00100	Steroid biosynthesis	8	709	19	22050	6.06586E-08
+mcf04972	Pancreatic secretion	15	709	87	22050	1.07632E-07
+mcf01212	Fatty acid metabolism	12	709	54	22050	1.10666E-07
+Bioinformatic analysis was performed using the OmicStudio tools at https://www.omicstudio.cn/tool.
