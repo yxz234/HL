@@ -1,0 +1,4 @@
+ID	Description	setSize	enrichmentScore	NES	pvalue	qvalue
+
+ko03320	PPAR signaling pathway	54	-0.522513357	-1.861963556	0.005649718	0.031990653
+Bioinformatic analysis was performed using the omicshare tools at https://www.omicshare.com/tools/

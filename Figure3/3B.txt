@@ -1,0 +1,12 @@
+Description	count	all	pvalue
+Insulin signaling pathway	4	116	0.049536395
+Bile secretion	6	91	0.004495169
+Fatty acid biosynthesis	2	18	0.0071094
+PPAR signaling pathway	6	84	0.001818208
+Fat digestion and absorption	2	41	0.034326912
+Fatty acid degradation	2	49	0.047488678
+Ferroptosis	1	34	0.216483571
+PI3K-Akt signaling pathway	6	350	0.219568449
+Fatty acid metabolism	1	58	0.340856988
+cAMP signaling pathway	3	172	0.348331918
+			
