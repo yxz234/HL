@@ -1,7 +1,0 @@
-celltype	MAFLD	ND
-Absorptive Enterocyte_cells	51.36	44.19
-Enteroendocfine_cells	11.31	7.52
-Goblet_cells	8.71	7.16
-Stem_cells	12.34	17.51
-TA_cells	15.51	22.22
-Tuft_cells	0.77	1.4
