@@ -1,0 +1,11 @@
+Level_2	HCON	HGW
+Carbohydrate metabolism	405960.7265	395222.6701
+Metabolism of cofactors and vitamins	303992.5552	325775.1501
+Amino acid metabolism	337273.0821	312485.849
+Metabolism of terpenoids and polyketides	279905.1721	248828.6688
+Metabolism of other amino acids	171935.0716	172693.2974
+Lipid metabolism	148511.8719	153788.487
+Glycan biosynthesis and metabolism	109440.3988	170832.3939
+Energy metabolism	145253.2795	148262.7955
+Translation	85714.68387	74761.3347
+Others	663588.8496	590601.4629
