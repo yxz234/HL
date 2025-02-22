@@ -1,0 +1,13 @@
+Phylum	HCON1	HCON2	HCON3	HGW1	HGW2	HGW3
+Firmicutes	39299	48495	43253	27700	32945	13426
+Bacteroidota	9559	6736	10835	31005	24519	13068
+Desulfobacterota	2385	3098	4086	5406	210	806
+Verrucomicrobiota	7738	446	391	2903	6867	1182
+Campilobacterota	161	1589	455	1693	125	172
+Proteobacteria	490	398	464	161	453	250
+Deferribacterota	44	39	28	16	24	0
+Actinobacteriota	236	196	269	184	200	525
+Cyanobacteria	1	14	11	8	7	0
+Patescibacteria	41	32	76	132	85	15
+Unclassified	297	272	209	326	304	228
+						
